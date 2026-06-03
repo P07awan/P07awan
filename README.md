@@ -1,5 +1,5 @@
 👋 Hi, I'm Pawan Kushwaha
-🔭 Currently working on Gesture-Based Mine Detection using AI<br><br>🤖 Interested in Artificial Intelligence, Machine Learning, Deep Learning<br><br>🧩 Exploring Agentic AI & Autonomous AI Systems<br><br>📚 Learning AI development, AI research, and intelligent systems<br><br>💡 Curious about solving real-world problems with AI
+🔭 Interested in Artificial Intelligence, Machine Learning, Deep Learning<br><br>🧩 Exploring Agentic AI & Autonomous AI Systems<br><br>📚 Learning AI development, AI research, and intelligent systems<br><br>💡 Curious about solving real-world problems with AI
 
 
 ## 🌐 Socials:
